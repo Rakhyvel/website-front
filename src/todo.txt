@@ -1,0 +1,12 @@
+x add tokens to backend
+x rethink CSS
+x private posts on backend
+x order posts by date
+x cant see private posts in edit/delete
+x add html5 article, header, footer stuff
+x projects API
+x projects auth
+- whole thing on github
+- push static front end
+- start putting projects and posts on! 
+- next, prev post ids?

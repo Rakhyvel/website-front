@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    /* border: 1px solid black; */
+}
+  
+body {
+    font-family: 'Segoe UI', sans-serif;
+    font-weight: 400;
+    color:#444;
+    text-rendering: optimizeLegibility;
+}
+.form p {
+    margin:0;
+}
+
+a {
+    color: rgb(202, 113, 41);
+}
+
+a:hover {
+    color: orange;
+}
+
+ul {
+    list-style-position: inside;
+}
+
+textarea {
+    width: 100%;
+}

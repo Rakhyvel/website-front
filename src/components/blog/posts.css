@@ -1,0 +1,68 @@
+.content {
+    padding: 1em 1em 0;
+    margin:auto;
+    max-width:950px;
+}
+
+.post {
+    margin-bottom: 4rem;
+}
+
+.posts {
+    padding: 3em;
+    margin: 0 auto;
+    max-width:640px;
+}
+
+.posts .date {
+    color:rgb(175, 175, 175);
+    margin-bottom: 1em;
+}
+
+.posts h1 {
+    font-size: 2.5rem;
+    letter-spacing: -0.025em;
+    margin-bottom: 0.5em;
+}
+
+.posts h2 {
+    margin: 4rem 0 1rem;
+    font-size: 1.875rem;
+    letter-spacing: -0.025em;
+}
+
+.posts h3 {
+    font-size: 1.875rem;
+    letter-spacing: -0.025em;
+    color:#444;
+}
+
+.posts .posts-title {
+    text-decoration: none;
+}
+  
+.posts .posts-title:visited {
+    text-decoration: none;
+    text-decoration-color: #444;
+}
+  
+.posts .posts-title:hover, .hover:hover {
+    text-decoration: underline;
+    text-decoration-color: #444;
+    cursor:pointer;
+}
+  
+.posts .posts-title:active {
+    text-decoration: underline;
+    text-decoration-color: #444;
+}
+
+.posts p {
+    margin: 0 0 1rem;
+    font-size: 17px;
+    line-height: 1.83;
+}
+
+.private {
+    text-decoration: line-through;
+}

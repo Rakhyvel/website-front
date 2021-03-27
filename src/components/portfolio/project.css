@@ -1,0 +1,28 @@
+.project img {
+    width:100%;
+    margin-bottom: 0.5em;
+}
+
+.project p {
+    margin: 0 0 1rem;
+    font-size: 17px;
+    line-height: 1.83;
+}
+
+.project {
+    margin: 0;
+    margin-bottom: 4em;
+}
+
+.project  h3 {
+    font-size: 1.875rem;
+    letter-spacing: -0.025em;
+    color:#444;
+    margin-bottom: 0.5em;
+}
+
+.project .links {
+    margin-top:1em;
+    display: flex;
+    flex-direction: column;
+}
